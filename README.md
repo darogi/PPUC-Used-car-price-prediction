@@ -1,2 +1,2 @@
 # PPUC-Used-car-price-prediction
-Georgetown Data Science PPUC Used Cars Price Project
+Georgetown Data Science PPUC Predictive Price Used Cars Project

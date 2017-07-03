@@ -1,2 +1,2 @@
 # PPUC-Used-car-price-prediction
-A repo to test github
+Georgetown Data Science PPUC Used Cars Price Project

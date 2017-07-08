@@ -1,0 +1,13 @@
+import pandas as pd
+import numpy as np
+
+from pandas import Series, DataFrame
+
+cars_soup = pd.read_csv('C:/Users/darog/OneDrive/Documents/CAPSTONE DATA SCIENCE/USED CARS CAPSTONE/csv files/carsoupdotcom.csv', 
+                        index_col = False, error_bad_lines = False)
+cars_soup.head()
+
+car_vendor = cars_soup['car_vendor']
+car_vendor[0]
+
+# Using a while loop, let's fill the car_vendor colums with the car_location column - double check !! no results !!
